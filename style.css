@@ -1,5 +1,5 @@
 .fulljustify{text-align:justify;}
 .fulljustify:after{content: "";display: inline-block;width: 100%;}body{font-family: 'Questrial', sans-serif;margin:35px auto;max-width:650px;font-size:25px;line-height:1.6;color: #ffffff;background-color: #000000;padding:0 10px;}
-a.twitter{color: #1DA1F2;text-decoration:none;}a.twitter:visited{color: #1DA1F2;text-decoration:none;}a.twitter:hover{color:#39FF14;text-decoration:none;}
-a.linkedin{color: #0A66C2;text-decoration:none;}a.linkedin:visited{color: #0A66C2;text-decoration:none;}a.linkedin:hover{color:#39FF14;text-decoration:none;}
-a.github{color: #6e5494;text-decoration:none;}a.github:visited{color: #6e5494;text-decoration:none;}a.github:hover{color:#39FF14;text-decoration:none;}
+a.twitter{color: #1DA1F2;text-decoration:none;}a.twitter:visited{color: #1DA1F2;text-decoration:none;}a.twitter:hover{color:#1DA1F2;text-decoration:none;font-size:50px;}
+a.linkedin{color: #0A66C2;text-decoration:none;}a.linkedin:visited{color: #0A66C2;text-decoration:none;}a.linkedin:hover{color:#0A66C2;text-decoration:none;font-size:50px;}
+a.github{color: #6e5494;text-decoration:none;}a.github:visited{color: #6e5494;text-decoration:none;}a.github:hover{color:#6e5494;text-decoration:none;font-size:50px;}
